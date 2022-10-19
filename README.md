@@ -3,8 +3,11 @@ Simple software for printing a dynamic grid board.
 
 For example,
 What will be printed when the user enters dimensions 10x10 is
+
 +---+---+---+---+---+---+---+---+---+---+
+
 |   |   |   |   |   |   |   |   |   |   |
+
 +---+---+---+---+---+---+---+---+---+---+
 |   |   |   |   |   |   |   |   |   |   |
 +---+---+---+---+---+---+---+---+---+---+
